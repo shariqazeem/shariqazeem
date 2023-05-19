@@ -24,8 +24,8 @@ Transforming DevOps Processes with Innovative Tools and Best Practices | Your So
 
 **Tools**
 
-| <img alt="Docker" width="30px" src="/Assets/docker.png"/> | <img alt="Linux" width="30px" src="/Assets/linux.png"/> | <img alt="Kubernetes" width="30px" src="/Assets/kubernetes.png"/> | <img alt="AWS" width="30px" src="/Assets/aws.png"/> | <img alt="Terraform" width="30px" src="/Assets/terraform.png"/> |
-|---|---|---|---|---|
+| <img alt="Docker" width="30px" src="/Assets/docker.png"/> | <img alt="Linux" width="30px" src="/Assets/linux.png"/> | <img alt="Kubernetes" width="30px" src="/Assets/kubernetes.png"/> | <img alt="AWS" width="30px" src="/Assets/aws.png"/> | <img alt="Terraform" width="30px" src="/Assets/terraform.png"/> | <img alt="Git" width="30px" src="/Assets/git.png"/> |
+|---|---|---|---|---|---|
 
 
  **Connect with Me**
