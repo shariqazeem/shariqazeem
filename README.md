@@ -20,7 +20,7 @@ Transforming DevOps Processes with Innovative Tools and Best Practices | Your So
  **Frameworks**
  
  <img alt="nextjs" width="30px" src="/Assets/next.png"/>|<img alt="tailwindcss" width="30px" src="/Assets/tailwindcss-icon.svg"/>|<img alt="Bootstrap" width="30px" src="/Assets/bootstrap-logo.png"/>
- |--|--|--|--|
+|--|--|--|--|
  
  **Tools**
  
