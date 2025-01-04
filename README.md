@@ -30,5 +30,5 @@ Transforming DevOps Processes with Innovative Tools and Best Practices | Your So
 
  **Connect with Me**
 ---
-[<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/shariq-shaukat786/) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="/Assets/twitter.png" />](https://twitter.com/ShariqTweets786) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/itx_shariq) [<img align="left" alt="Email -Shariq Shaukat" width="30px" src="/Assets/gmail.png" />](mailto:shariqshaukat786@gmail.com)
+[<img align="left" alt="LinkedIn - Rohan Das" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/shariq-shaukat786/) [<img align="left" alt="Twitter - Rohan Das" width="30px" src="/Assets/twitter.png" />](https://twitter.com/ShariqTweets786) [<img align="left" alt="Instagram - Rohan Das" width="30px" src="/Assets/instagram.png" />](https://www.instagram.com/shariqshkt) [<img align="left" alt="Email -Shariq Shaukat" width="30px" src="/Assets/gmail.png" />](mailto:shariqshaukat786@gmail.com)
 
