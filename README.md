@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://kyvernlabs.com">kyvernlabs.com</a> &nbsp;·&nbsp;
   <a href="https://x.com/shariqshkt">@shariqshkt</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/shariqshaukat">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/shariq-shaukat786">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:shariqshaukat786@gmail.com">Email</a>
 </p>
 
