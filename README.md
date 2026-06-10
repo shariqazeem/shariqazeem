@@ -34,14 +34,14 @@ Before Kyvern: three x402 agent commerce products, **AEGIS** (sovereign AI secur
 ### 🏆 Selected Wins
 
 | Project | Recognition | Prize |
-|---|---|---|
-| **ParallaxPay** | 2nd Place · x402 Solana Hackathon (Parallax Eco Track) | $2,500 |
-| **AEGIS** | Winner · Gradient AI Lab Competition | Mac Mini |
-| **Umanity** | Solana Graveyard / Tapestry Hackathon (3rd of 74) | $1,000 |
-| **StarkPay** | Starknet Bounty Winner | $500 |
-| **Umanity** | 3rd Place · SuperTeam Earns Bounty | $200 |
-| **DawnGuard** | 4th Place + Bonus · DAWN Cypherpunk Hackathon | — |
-| **Solana Saga** | Intern's Pick · Indie.fun Hackathon | — |
+|---|---|
+| **ParallaxPay** | 2nd Place · x402 Solana Hackathon (Parallax Eco Track)
+| **AEGIS** | Winner · Gradient AI Lab Competition
+| **Umanity** | Solana Graveyard / Tapestry Hackathon (3rd of 74)
+| **StarkPay** | Starknet Bounty Winner 
+| **Umanity** | 3rd Place · SuperTeam Earns Bounty 
+| **DawnGuard** | 4th Place + Bonus · DAWN Cypherpunk Hackathon 
+| **Solana Saga** | Intern's Pick · Indie.fun Hackathon 
 
 **7 wins · $4,200+ combined prizes + Mac Mini · 2024–2026 · all solo.**
 
